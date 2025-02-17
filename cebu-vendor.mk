@@ -118,7 +118,11 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.qti.tuned.mot_cebu_ov02b1b.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.mot_cebu_ov02b1b.bin \
     vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.qti.tuned.mot_cebu_ov16a1q.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.mot_cebu_ov16a1q.bin \
     vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.qti.tuned.mot_cebu_ov64b.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.mot_cebu_ov64b.bin \
-    vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.qti.tuned.mot_cebu_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.mot_cebu_s5k4h7.bin
+    vendor/motorola/cebu/proprietary/vendor/lib64/camera/com.qti.tuned.mot_cebu_s5k4h7.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.mot_cebu_s5k4h7.bin \
+    vendor/motorola/cebu/proprietary/vendor/usr/idc/uinput-fpc.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/uinput-fpc.idc \
+    vendor/motorola/cebu/proprietary/vendor/usr/idc/uinput-fpsensor.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/uinput-fpsensor.idc \
+    vendor/motorola/cebu/proprietary/vendor/usr/keylayout/uinput-fpc.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpc.kl \
+    vendor/motorola/cebu/proprietary/vendor/usr/keylayout/uinput-fpsensor.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/uinput-fpsensor.kl
 
 PRODUCT_PACKAGES += \
     libthermalclient \
