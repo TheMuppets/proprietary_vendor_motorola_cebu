@@ -235,6 +235,7 @@ PRODUCT_PACKAGES += \
     libswregistrationalgo \
     libtfestriping \
     libvidhance \
+    capsense_reset \
     cnss-daemon \
     android.hardware.biometrics.fingerprint@2.1-service-chipone \
     android.hardware.biometrics.fingerprint@2.1-service-fpc \
