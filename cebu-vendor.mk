@@ -217,6 +217,7 @@ PRODUCT_PACKAGES += \
     libchilog \
     libcom.qti.chinodeutils \
     libfcell \
+    libfp_ext_svc2 \
     libipebpsstriping \
     libjpege \
     liblmutils-ns \
@@ -235,6 +236,7 @@ PRODUCT_PACKAGES += \
     libswregistrationalgo \
     libtfestriping \
     libvidhance \
+    vendor.fpsensor.hardware.fpsensorhidlsvc@2.0 \
     capsense_reset \
     cnss-daemon \
     android.hardware.biometrics.fingerprint@2.1-service-chipone \
