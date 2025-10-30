@@ -221,6 +221,7 @@ PRODUCT_PACKAGES += \
     libipebpsstriping \
     libjpege \
     liblmutils-ns \
+    liblowlight_ai_portrait.arcsoft \
     libmctfengine_stub \
     libmmcamera_cac3 \
     libmmcamera_faceproc \
