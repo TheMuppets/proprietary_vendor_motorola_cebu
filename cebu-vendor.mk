@@ -200,6 +200,7 @@ PRODUCT_PACKAGES += \
     camera.qcom \
     chipone.fingerprint.default \
     com.qti.chi.override \
+    libaidenoiser \
     libbitmlengine \
     libcamera_nn_stub \
     libcamerapostproc \
